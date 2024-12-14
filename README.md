@@ -1,0 +1,2 @@
+Social Sphere is a React-based web application designed to emulate a social media platform. Users have the ability to register accounts, thereby gaining access to features such as posting content, liking posts, and engaging in discussions through comments. The platform aims to provide a dynamic and interactive space for users to connect, share, and engage with one another's content in a seamless and user-friendly manner.
+Technologies: MERN STACK (Mongo DB, Express, React js, Node js), Firebase(storage for images) , React-redux, Three Js(for Animation), Tailwind, BootStrap.
